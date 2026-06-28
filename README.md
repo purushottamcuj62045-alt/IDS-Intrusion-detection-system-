@@ -184,4 +184,3 @@ MIT License — feel free to use, modify, and distribute.
 ## Author
 
 [Purushottam]
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/purushottam-k-08a414383/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app | [GitHub][https://github.com/yourusername](https://github.com/purushottamcuj62045-alt
