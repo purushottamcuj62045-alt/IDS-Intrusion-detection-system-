@@ -14,6 +14,12 @@ A real-time Network Intrusion Detection System built in Python using Scapy and M
 
 ---
 
+## Snapshots
+<img width="1213" height="673" alt="image" src="https://github.com/user-attachments/assets/7d4a1c72-f6a9-49c5-be86-37759f69c6e7" />
+<img width="1097" height="700" alt="image" src="https://github.com/user-attachments/assets/fc116245-3fde-45f8-bc85-381de760b775" />
+
+
+
 ## Tech Stack
 
 | Tool | Purpose |
